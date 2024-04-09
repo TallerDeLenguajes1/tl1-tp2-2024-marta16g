@@ -2,3 +2,5 @@ PUNTO 2.f
 No podemos ver el archivo creado en la branch Opcion_2 debido a que estamos situados en otra rama distinta donde no trabajamos con el archivo. Son dos ramas diferentes.
 
 Al hacer un nuevo commit se observa un cambio en el sistema dado por el comando gitk --all, en la gráfica se representa un nuevo cambio, un nuevo commit.
+
+Al mergear ambas ramas, con el comando gitk --all, observamos la gráfica de una forma distinta, con la rama Opcion_2 regresando al camino de Main, representando que ambas ramas se unieron.
