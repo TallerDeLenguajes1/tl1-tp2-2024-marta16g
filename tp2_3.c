@@ -1,5 +1,6 @@
 #include <stdio.h> 
 #include <time.h>
+#include <stdlib.h>
 #define N 5
 #define M 7
 
